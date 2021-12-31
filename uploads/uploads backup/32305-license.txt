@@ -1,0 +1,75 @@
+END-USER LICENSE AGREEMENT
+phpDesigner 8
+
+DEFINITIONS
+"Software" refers to "phpDesigner 8" and "phpDesigner 8 Portable" and accompanying materials provided to you by MPSOFTWARE.
+
+SCOPE OF LICENSE
+By installing, copying or otherwise using the software, you agree to be bound by the terms of this end-user license agreement. If you do not agree to the terms of this end-user license agreement, do not install, copy or use the software. Using any part of the software indicates that you accept these terms.
+
+The software is licensed, not sold. This end-user license agreement only gives you rights to use the software. MPSOFTWARE reserves all other rights including the ownership. You must treat this software like any other copyrighted material. Unless applicable law gives you more rights despite this limitation, you may use the software only as expressly permitted in this end-user license agreement.
+
+EVALUATION VERSION
+This license gives you right to use this software for 21 days evaluation purposes without paying. You are encouraged to use this opportunity to make sure, that the software runs without any problems and that it meets your expectations before ordering a license for it. 
+
+You are required to order a license for the software if you wish to continue using the software after the evaluation period has ended. Otherwise, you must delete or uninstall the software from your computer. You can order your license for the software at http://www.mpsoftware.dk
+
+
+REGISTERED VERSION
+
+a. Commercial License
+This software may be use for any commercial, business, personal, educational, governmental or institutional work. You can install this license at work, on your laptop and at home as long as you are the only user of the license.
+
+b. Personal License
+This software can only be used by a private person and for non-commercial work only. If you are a company or use it for commercial work a commercial license is required. You can install this license at on your private laptop and at home as long as you are the only user of the license.
+
+c. Academic License
+This license is only available to students and teaching staff of accredited educational institutions, including colleges, universities and institutions. To qualify, you must have an email address from an accredited educational institution or a valid academic ID with a picture and visible enrolment date. You cannot use the academic license for commercial work. You can install this license at on your private laptop and at home as long as you are the only user of the license.
+
+d. Site License (x users)
+Allows up to x different users to use the software within the company or organization holding the license. You can install this license at work, on your laptop and at home as long as you are the only user of the license.
+
+e. Portable (commercial)
+This software may be use for any commercial, business, personal, educational, governmental or institutional work. You can install this license at work, on your laptop and at home as long as you are the only user of the license.
+
+f. Portable (personal)
+This software can only be used by a private person and for non-commercial work only. If you are a company or use it for commercial work a commercial license is required. You can install this license at on your private laptop and at home as long as you are the only user of the license.
+
+
+DISCLAIMER OF WARRANTIES
+You expressly understand and agree that:
+
+a. Your use of this software is at your sole risk. This software is provided on an "as is". MPSOFTWARE expressly disclaims all warranties of any kind, whether express or implied, including, but not limited to the implied warranties of merchantability, fitness for a particular purpose and non-infringement.
+
+b. MPSOFTWARE makes no warranty that (i) the service will meet your requirements, (ii) this software will be uninterrupted, timely, secure, or error-free, (iii) the results that may be obtained from the use of this software will be accurate or reliable, (iv) the quality of this software will meet your expectations, and (v) any errors in the software will be corrected.
+
+c. The use of the software is on you own risk and you will be solely responsible for any damage to your computer system or loss of data that results from the software.
+
+d. No advice or information, whether oral or written, obtained by you from MPSOFTWARE or through or from this software shall create any warranty not expressly stated in the license agreement.
+
+e. You expressly understand and agree that MPSOFTWARE or the author shall not be liable for any direct, indirect, incidental, special, consequential or exemplary damages, including but not limited to, damages for loss of profits, goodwill, use, data or other intangible losses (even if you has been advised of the possibility of such damages), resulting from: (i) the use or the inability to use of this software; (ii) the cost of procurement of substitute goods and services resulting from any goods, data, information or services purchased or obtained or messages received or transactions entered into through or from the service; (iii) unauthorized access to or alteration of your transmissions or data; (iv) statements or conduct of any third party on the service; or (v) any 
+other matter relating to the service.
+
+f. You may not decompile, reverse engineer, disassemble or otherwise reduce this software to a human perceivable form.
+
+g. Using warez version, crack, warez passwords, patches, serial numbers, registration codes, key generator, pirate key, keymaker or keygen for this software license key is illegal and prevent future development of the software. Download links are directly from our mirrors or publisher's website, software torrent or shared files from free file sharing and free upload services, including Rapidshare, MegaUpload, YouSendIt, SendSpace, DepositFiles, DivShare or MediaFire, are not used.
+
+DELIVERY
+You will receive your registration details for the software by e-mail within 24 hours or once your payment has been cleared. Once the registration details have been sent to you, you cannot get your money back.
+
+DISTRIBUTION
+Permission from MPSOFTWARE is necessary to include this software on CD-ROM with any books, magazines, software packages or other publications.
+
+SOFTWARE MAINTENANCE
+MPSOFTWARE is not obligated to provide maintenance or updates to you for the software. However, MPSOFTWARE may, in its sole discretion, provide updates and/or supplements of the software and/or related information to you hereunder, in which case such updates shall also be deemed to be included in the software and therefore governed by this license agreement.
+
+MPSOFTWARE may contact you by email at any time with information and offers regarding our products and services.
+
+LEGAL EFFECT
+This license agreement describes certain legal rights. You may have other rights under the laws of your country. This agreement does not change your rights under the laws of your country if the laws of your country do not permit it to do so.
+
+TERMINATION
+This license agreement terminates if you fail to comply with its terms and conditions. If your license terminates, you must destroy all copies of the software you have.
+
+©2013 MPSOFTWARE. ALL RIGHTS RESERVED.
+http://www.mpsoftware.dk

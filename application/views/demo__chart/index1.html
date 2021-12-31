@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head><script src="https://www.gstatic.com/charts/loader.js"></script>
+<ul id="draw-charts"></ul>
+</head>
+
+<body>
+    <div id="chart" style="width:700px; height:300px;"></div> 
+</body>
+
+<script>
+  google.charts.load('current', {
+  callback: function () {
+    var data = new google.visualization.DataTable();
+    data.addColumn('string', 'Topping');
+    data.addColumn('number', 'Slices');
+    data.addRows([
+      ['Mushrooms', 100],
+      ['Onions', 1],
+      ['Olives', 2],
+      ['Zucchini', 2],
+      ['Pepperoni', 1]
+    ]);
+    var options = {
+      title:'How Much Pizza Sarah Ate Last Night',
+      width:400,
+      height:300
+    };
+
+  
+      var container = document.getElementById('draw-charts').appendChild(document.createElement('div'));
+      var chart = new google.visualization.PieChart(container);
+      chart.draw(data, options);
+ 
+  },
+  packages: ['corechart']
+});
+</script>
+</html>
